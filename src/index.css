@@ -11,3 +11,95 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.films{
+  background-color:black;
+  margin:auto;
+  border-radius: 30px;
+  width:50%;
+  height:300px;
+  box-shadow: 5px 5px 5px rgba(68, 68, 68, 0.6);
+  text-align: center;
+  color:red
+}
+.btn{
+  background-color:red;
+  box-shadow: 5px 5px 5px rgba(68, 68, 68, 0.6);
+  width:300px;
+  height:50px;
+  margin-top:40px;
+  border-radius: 15px;
+  font-weight: 800;
+  font-size: larger;
+  margin-left:120px;
+  border:3px solid black;
+  margin-left:20px;
+
+}
+body{
+  background-image: url("https://images.thedirect.com/media/article_full/star-wars-movies-characters.jpg?imgeng=cmpr_75/");
+}
+.sw,.sw1{
+  font-size: 30px;
+  font-weight: 900;
+  margin-left:500px;
+  color:red;
+  background-color:black;
+  width:300px;
+  border-radius: 15px;
+  text-align: center
+
+
+
+}
+p{
+  margin:1px
+}
+* {
+  box-sizing: border-box;
+  
+}
+.light_btn{
+
+margin-left:400px;
+background-color:red;
+  box-shadow: 5px 5px 5px rgba(68, 68, 68, 0.6);
+  width:200px;
+  height:50px;
+  margin-top:40px;
+  border-radius: 15px;
+  font-weight: 800;
+  font-size: larger;
+  border:3px solid black;
+  margin-left:250px;
+  
+}
+
+.dark_btn{
+
+  margin-left:100px;
+  background-color:red;
+  box-shadow: 5px 5px 5px rgba(68, 68, 68, 0.6);
+  width:200px;
+  height:50px;
+  margin-top:40px;
+  border-radius: 15px;
+  font-weight: 800;
+  font-size: larger;
+  border:3px solid black;
+  margin-left:20px;
+  
+  }
+  .buttons{
+    display:flex
+  }
+
+  .films2{
+    background-color:white;
+    margin:auto;
+    border-radius: 30px;
+    width:50%;
+    height:300px;
+    box-shadow: 5px 5px 5px rgba(68, 68, 68, 0.6);
+    text-align: center;
+    color:red;
+  }
